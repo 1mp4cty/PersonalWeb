@@ -1,0 +1,13 @@
+activate-power-mode
+atom-beautify
+git-plus
+linter
+linter-eslint
+linter-stylelint
+minimap
+seti-icons
+react
+
+theme:
+UI Theme: One Dark
+Syntax Theme: Improved chester atom
